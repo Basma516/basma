@@ -14,4 +14,6 @@ delete tags :
     local :
         git tag -d v1.7
     remote :
-        git push origin --delete v1.7            
+        git push origin --delete v1.7   
+adding image :
+(https://github.com/Basma516/basma/blob/master/basma.jpeg)  [alternate text for image]!      
